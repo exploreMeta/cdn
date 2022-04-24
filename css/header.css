@@ -58,3 +58,7 @@
 #page-header:before {
     background-color: rgba(0, 0, 0, 0);
 }
+
+#article-container a {
+    color: #49b1f5;
+}

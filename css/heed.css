@@ -534,6 +534,8 @@
   }
 
   #aside-content #card-toc .toc-content {
-    margin: 0 -30px;
+    overflow-y: unset !important;
+    overflow-y: unset !important;
     max-height: calc(100vh - 120px);
+    margin: 0 -30px !important;
   }

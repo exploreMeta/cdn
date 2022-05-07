@@ -532,3 +532,8 @@
   [data-theme="dark"] .tip {
     filter: brightness(0.7);
   }
+
+  #aside-content #card-toc .toc-content {
+    margin: 0 -30px;
+    max-height: calc(100vh - 120px);
+  }
